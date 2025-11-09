@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CSS Border Example</title>
+  <style>
+    div {
+      border: 3px solid blue;
+      padding: 20px;
+      width: 300px;
+    }
+  </style>
+</head>
+<body>
+  <div>my name is sweta</div>
+</body>
+</html>
