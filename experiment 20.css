@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Class and ID Example</title>
+  <style>
+    .intro { color: blue; }
+    #special { color: red; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <p class="intro">This is styled using a class.</p>
+  <p id="special">This is styled using an ID.</p>
+</body>
+</html>
